@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Weather Pro",
+  "description": "AI-powered weather intelligence dashboard featuring immersive forecasts, precipitation maps, and real-time environmental insights inspired by the Pixel Weather experience.",
+  "requestFramePermissions": ["geolocation"]
+}
